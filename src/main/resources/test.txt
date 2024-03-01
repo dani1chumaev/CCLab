@@ -1,0 +1,14 @@
+begin
+    dim a, b %;
+    dim c, d !;
+    let a = 24 / 2;
+    let c = 12.3;
+    let d = 0.25E+1;
+    do while a > 20
+        a = a-1
+    loop;
+    if b = 3 then
+        output(b)
+    end_else
+end
+
